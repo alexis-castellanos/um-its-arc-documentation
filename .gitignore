@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Generated data directories
+umich_arc_docs/
+umich_arc_processed/
+
+# Log files
+*.log
+
+# OS specific files
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
